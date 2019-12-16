@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hi there, Yesterday Me! 예전의 나에게
+title: Hi there, Yesterday Me! | 예전의 나에게
 ---
 
 I'm trying to become a tommorrow me.
